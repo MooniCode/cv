@@ -1,0 +1,13 @@
+# Typst build output
+*.pdf
+
+# Typst temporary/cache files
+*.aux
+*.log
+*.out
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
